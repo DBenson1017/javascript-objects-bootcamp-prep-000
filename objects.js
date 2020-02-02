@@ -7,7 +7,7 @@ function updatePlaylist(obj, key, value){
 }
 
 function removeFromPlaylist(obj,key){
-  delete playlist.myBloodyValentine
+  delete playlist.Slowdive
   return playlist;
 }
 
