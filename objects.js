@@ -7,11 +7,7 @@ function updatePlaylist(obj, key, value){
 }
 
 function removeFromPlaylist(obj,key){
-  return playlist
+  delete playlist.myBloodyValentine
+  return playlist;
 }
 
-
-before(() => {
-      playlist['Slowdive'] = 'Alison'
-      playlist['My Bloody Valentine'] = 'Sometimes'
-    })
