@@ -6,6 +6,8 @@ var playlist = {
 function updatePlaylist(obj, key, value){
   return playlist.lizzo ='phone';
 }
-
+function removeFromPlaylist(obj,key){
+  
+}
 
 
