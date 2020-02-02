@@ -4,7 +4,7 @@ var playlist = {
   beyonce: 'higher'
 };
 function updatePlaylist(obj, key, value){
-  return playlist.lizzo ='phone';
+  return playlist[Phil Ochs] ='phone';
 }
 function removeFromPlaylist(obj,key){
   
