@@ -3,6 +3,9 @@ var playlist = {
   rihanna: 'Sex With Me',
   beyonce: 'higher'
 };
+function updatePlaylist(obj, key, value){
+  return playlist.lizzo ='phone';
+}
 
 
 
